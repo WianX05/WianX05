@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning abouth HTML 
 - 💞️ I’m looking to collaborate on Aviation and sports 
 - 📫 How to reach me Wian.Saptouw@gmail.com
-DOG 
+
 
 <!---
 WianX05/WianX05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
