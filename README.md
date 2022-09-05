@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WianX05
-- 👀 I’m interested in sports and Aviation. 
-- 🌱 I’m currently learning abouth HTML 
-- 💞️ I’m looking to collaborate on Aviation and sports 
-- 📫 How to reach me Wian.Saptouw@gmail.com
+- 👋 Hi, I’m @WianX05 , I am from Cape Town South Africa 
+- 👀 I’m interested in sports and Aviation.  
+- 🌱 I’m currently learning abouth HTML and Creating sector files for the Vatsim Flight simulater network. 
+- 💞️ I’m looking forward to getting to know about Github and also working on the Visuel Studio studio. 
+- 📫 How to reach me Wian.Saptouw@gmail.com and on twitter @WSaptouw. 
 
 
 <!---
